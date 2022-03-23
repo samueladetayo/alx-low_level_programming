@@ -1,5 +1,10 @@
-#include "main.h"
+#include "holberton.h"
 
+/**
+ * jack_bauer - Prints the minutes of a day
+ *
+ * Return: no return
+ */
 void jack_bauer(void)
 {
 	int a, b, c, d;
