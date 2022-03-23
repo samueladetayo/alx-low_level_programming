@@ -1,5 +1,11 @@
 #include "main.h"
 
+/**
+ * main - Prints Main as a message.
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int str[] = {72, 111, 108, 98, 101, 114, 116, 111, 110};
@@ -11,5 +17,5 @@ int main(void)
 		_putchar(str[count]);
 	}
 	_putchar('\n');
-	return (0);
+i	return (0);
 }
